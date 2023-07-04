@@ -1,0 +1,22 @@
+{
+	"name": "indexed-webp-export",
+	"displayName": "Indexed WebP Export",
+	"description": "Export an indexed sprite to WebP",
+	"version": "0.1",
+	"author": {
+		"name": "Aqt",
+		"url": "https://github.com/aqt/aseprite-webp-export/"
+	},
+	"contributors": [],
+	"license": "LGPL-3.0-only",
+	"categories": [
+		"Scripts"
+	],
+	"contributes": {
+		"scripts": [
+			{
+				"path": "./export.lua"
+			}
+		]
+	}
+}
